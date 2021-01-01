@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
  <h3 align="center">:rocket::fire::fire: Passioned about building React projects. :fire::fire::rocket:</h3> 
  
- ![](./react-1.svg)
  
  <p align="center"> <img
         src="/react-1.svg"
+                         width="40" height="40"
         /> </p>
 
 <p align="center"> <img
