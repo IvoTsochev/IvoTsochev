@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
  <h3 align="center">:rocket::fire::fire: Passioned about building React projects. :fire::fire::rocket:</h3> 
+ 
+ ![](./react-1.svg)
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
