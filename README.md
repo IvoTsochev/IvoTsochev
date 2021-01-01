@@ -3,7 +3,7 @@
  
  
  <p align="center"> <img
-        src="/react-1.svg"
+        src="/react3.png"
                          width="100"
         /> </p>
 
