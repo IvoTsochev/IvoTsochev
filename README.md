@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
 <h3 align="center">Passioned about building React projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat" alt="ivotsochev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat" alt="ivotsochev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivotsochev" alt="ivotsochev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivotsochev" alt="ivotsochev" /></a> </p>
+
+<div align='center'>
+
 
 - 🌱 I’m currently learning **React, Redux, GraphQL**
 
@@ -12,6 +15,8 @@
 - 📫 How to reach me **ivo.tsochev@gmail.com**
 
 - 📄 Know about my experiences [ivaylotsochev.com](ivaylotsochev.com)
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
