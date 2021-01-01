@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
-:rocket::fire::fire: <h3 align="center">Passioned about building React projects.</h3> :fire::fire::rocket:
+ <h3 align="center">:rocket::fire::fire: Passioned about building React projects. :fire::fire::rocket:</h3> 
 
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
