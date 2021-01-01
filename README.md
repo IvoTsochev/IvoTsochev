@@ -8,18 +8,18 @@
 <div align='center'>
 
 
-- 🌱 I’m currently learning **React, Redux, GraphQL**
+ 🌱 I’m currently learning **React, Redux, GraphQL**
 
-- 👨‍💻 All of my projects are available at [ivaylotsochev.com](ivaylotsochev.com)
+ 👨‍💻 All of my projects are available at [ivaylotsochev.com](ivaylotsochev.com)
 
-- 📫 How to reach me **ivo.tsochev@gmail.com**
+ 📫 How to reach me **ivo.tsochev@gmail.com**
 
-- 📄 Know about my experiences [ivaylotsochev.com](ivaylotsochev.com)
+ 📄 Know about my experiences [ivaylotsochev.com](ivaylotsochev.com)
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/ivotsochev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ivotsochev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ivaylo tsochev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ivaylo tsochev" height="30" width="40" /></a>
 </p>
