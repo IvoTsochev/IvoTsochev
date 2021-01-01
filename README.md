@@ -58,12 +58,16 @@
             width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40"
             height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
+            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
+</p>
 
 
 
-<p style='padding-right: 0px;'>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
-        alt="ivotsochev" /></p>
+<div class="stats">
+    <p>&nbsp;<img align="left"
+            src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
+            alt="ivotsochev" /></p>
 
-<p style='padding-left: 0px;'><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev" /></p>
+    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev" />
+    </p>
+</div>
