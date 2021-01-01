@@ -6,7 +6,7 @@
         alt="ivotsochev" /> </p>
 
 
-<p>&nbsp;<img align="center"
+<p align="center">&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
         alt="ivotsochev" /></p>
 
@@ -70,5 +70,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev"/></p>
 
