@@ -6,6 +6,11 @@
         alt="ivotsochev" /> </p>
 
 
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
+        alt="ivotsochev" /></p>
+
+
 <div align='center'>
 
 
@@ -61,11 +66,9 @@
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
 
-<div class="just-stats">
 
-<p>&nbsp;<img align="left"
-        src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
-        alt="ivotsochev" /></p>
 
-<p style='padding-left: 0px;'><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev"/></p>
-</div>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev"/></p>
+
