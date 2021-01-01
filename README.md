@@ -3,8 +3,8 @@
  
  
  <p align="center"> <img
-        src="/react2.png"
-                         width="40" height="40"
+        src="/react-1.svg"
+                         width="100"
         /> </p>
 
 <p align="center"> <img
