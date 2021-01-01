@@ -62,8 +62,8 @@
 
 
 
-<p style='padding: 0px;'>&nbsp;<img align="left"
+<p style='padding-right: 0px;'>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
         alt="ivotsochev" /></p>
 
-<p style='padding: 0px;'><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev" /></p>
+<p style='padding-left: 0px;'><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&" alt="ivotsochev" /></p>
