@@ -61,7 +61,7 @@
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
 
-<div>
+<div class="just-stats">
 
 <p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
