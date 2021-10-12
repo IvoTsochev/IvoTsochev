@@ -21,7 +21,7 @@
   />
 </p>
 <div align="center" width:"200">
-  <div align="left">
+  <div align="left" width:"200">
     🌱 I’m currently learning **React, Redux, GraphQL** <br>
     👨‍💻 All of my projects are
     available at [ivaylotsochev.com](ivaylotsochev.com) <br>
