@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
-<h3 align="center">
+<h1 align="left">Hi 👋, I'm Ivaylo Tsochev</h1>
+<h3 align="left">
   :rocket::fire::fire: Passioned about building React projects.
   :fire::fire::rocket:
 </h3>
 
-<p align="center"><img src="/react3.png" width="100" /></p>
+<p align="left"><img src="/react3.png" width="100" /></p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
     alt="ivotsochev"
   />
 </p>
 
-<p align="center">
+<p align="left">
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
     alt="ivotsochev"
   />
@@ -31,11 +31,11 @@
   [ivaylotsochev.com](ivaylotsochev.com)<br>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/ivotsochev" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
       alt="ivotsochev"
       height="30"
@@ -43,7 +43,7 @@
   /></a>
   <a href="https://linkedin.com/in/ivaylotsochev" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="ivaylo tsochev"
       height="30"
@@ -51,8 +51,8 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
 
   <a href="https://www.figma.com/" target="_blank">
@@ -149,9 +149,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&"
     alt="ivotsochev"
   />
