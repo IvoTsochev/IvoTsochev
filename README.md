@@ -129,7 +129,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
