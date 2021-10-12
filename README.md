@@ -20,7 +20,7 @@
     alt="ivotsochev"
   />
 </p>
-<div align="center" {width=50%}>
+<div align="center" | width=150 >
   <div align="left" >
     🌱 I’m currently learning **React, Redux, GraphQL** <br>
     👨‍💻 All of my projects are
