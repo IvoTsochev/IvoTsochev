@@ -100,10 +100,10 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://nextjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      alt="nextjs"
       width="40"
       height="40"
     />
@@ -113,7 +113,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
       alt="javascript"
       width="40"
       height="40"
