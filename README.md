@@ -22,13 +22,13 @@
 </p>
 
 <div align="center">
-  🌱 I’m currently learning **React, Redux, GraphQL** 
+  🌱 I’m currently learning **React, Redux, GraphQL** <br>
   👨‍💻 All of my projects are
-  available at [ivaylotsochev.com](ivaylotsochev.com) 
+  available at [ivaylotsochev.com](ivaylotsochev.com) <br>
   📫 How to reach me
-  **ivo.tsochev@gmail.com** 
+  **ivo.tsochev@gmail.com** <br>
   📄 Know about my experiences
-  [ivaylotsochev.com](ivaylotsochev.com)
+  [ivaylotsochev.com](ivaylotsochev.com)<br>
 </div>
 
 <h3 align="center">Connect with me:</h3>
