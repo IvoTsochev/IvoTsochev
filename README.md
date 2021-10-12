@@ -121,7 +121,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
       alt="linux"
       width="40"
       height="40"
