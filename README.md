@@ -36,7 +36,7 @@
   <a href="https://twitter.com/ivotsochev" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
       alt="ivotsochev"
       height="30"
       width="40"
@@ -44,7 +44,7 @@
   <a href="https://linkedin.com/in/ivaylotsochev" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
       alt="ivaylo tsochev"
       height="30"
       width="40"
