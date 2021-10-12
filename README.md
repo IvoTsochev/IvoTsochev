@@ -150,7 +150,7 @@
   </a>
     <a href="https://www.vim.org/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svgg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
       alt="vim"
       width="40"
       height="40"
