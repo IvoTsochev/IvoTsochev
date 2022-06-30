@@ -91,7 +91,7 @@
   </a>
   <a href="https://www.shopify.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/shopify/shopify-ar21.svg"
+      src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"
       alt="shopify liquid"
       width="40"
       height="40"
