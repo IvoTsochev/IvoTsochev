@@ -24,11 +24,11 @@
   <div align="center" >
     🌱 I’m currently learning **React, Redux, GraphQL** <br>
     👨‍💻 All of my projects are
-    available at [ivaylotsochev.com](ivaylotsochev.com) <br>
+    available at ivaylotsochev.com <br>
     📫 How to reach me
-    **ivo.tsochev@gmail.com** <br>
+    **ivaylo@headless.team** <br>
     📄 Know about my experiences
-    [ivaylotsochev.com](ivaylotsochev.com)<br>
+    ivaylotsochev.com<br>
   </div>
 
 
