@@ -56,14 +56,7 @@
 <p align="center">
 
 
-  <a href="https://www.figma.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
+
 
   <a href="https://firebase.google.com/" target="_blank">
     <img
@@ -81,10 +74,10 @@
       height="40"
     />
   </a>
-  <a href="https://graphql.org" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwindcss"
       width="40"
       height="40"
     />
@@ -144,14 +137,6 @@
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
       alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
       width="40"
       height="40"
     />
