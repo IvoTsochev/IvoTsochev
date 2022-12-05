@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivaylo Tsochev</h1>
+<h1 align="center">Hi 👋, I'm Ivo</h1>
 <h3 align="center">
   :rocket::fire::fire: Passioned about building React projects.
   :fire::fire::rocket:
@@ -20,6 +20,8 @@
     alt="ivotsochev"
   />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
   <div align="center" >
     🌱 I’m currently learning **React, Redux, GraphQL** <br>
