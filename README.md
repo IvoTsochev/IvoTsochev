@@ -13,25 +13,16 @@
   />
 </p>
 
-<p align="center">
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=ivotsochev&show_icons=true&locale=en"
-    alt="ivotsochev"
-  />
-</p>
+<div align="center">
+  <img align="left" width="48%" height="235px" src="https://github-readme-stats.vercel.app/api?username=ivotsochev&theme=ocean_dark&show_icons=true" />
+  <img align="right" width="48%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivotsochev&layout=compact" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-  <div align="center" >
-    🌱 I’m currently learning **React, Redux, GraphQL** <br>
-    👨‍💻 All of my projects are
-    available at ivaylotsochev.com <br>
-    📫 How to reach me
-    **ivaylo@headless.team** <br>
-    📄 Know about my experiences
-    ivaylotsochev.com<br>
-  </div>
+  
+<p align="center">👨‍💻 All of my projects are available at ivaylotsochev.com</p>
+<p align="center">📫 How to reach me ivaylo@headless.team</p>
+<p align="center">📄 Know about my experiences ivaylotsochev.com</p>
 
 
 <h3 align="center">Connect with me:</h3>
