@@ -14,9 +14,10 @@
 </p>
 
 <div align="center">
-  <img align="left" width="48%" height="235px" src="https://github-readme-stats.vercel.app/api?username=ivotsochev&theme=ocean_dark&show_icons=true" />
-  <img align="right" width="48%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivotsochev&layout=compact" />
+  <img align="left" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api?username=ivotsochev&theme=ocean_dark&show_icons=true" />
+  <img align="right" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivotsochev&layout=compact" />
 </div>
+
 
 
   
@@ -159,3 +160,7 @@
     alt="ivotsochev"
   />
 </p>
+
+# 📒 My Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
