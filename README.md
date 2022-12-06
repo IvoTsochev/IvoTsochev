@@ -163,4 +163,6 @@
 
 # 📒 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [VScode plugins that helped me be more productive!](https://medium.com/@ivo.tsochev/vscode-plugins-that-helped-me-be-more-productive-3142daa478cb?source=rss-5b7658be527c------2)
+- [NEXTjs + MailChimp? No problem!](https://medium.com/@ivo.tsochev/nextjs-mailchimp-no-problem-922be1549031?source=rss-5b7658be527c------2)
 <!-- BLOG-POST-LIST:END -->
