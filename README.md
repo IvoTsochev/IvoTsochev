@@ -14,7 +14,7 @@
 
 ---
 
-<h3>Connect, Follow, Subscribe:</h3>
+### 🤝🏻 Connect, Follow, Subscribe:
 <p>
   <a href="https://twitter.com/ivotsochev" target="blank"
     ><img
