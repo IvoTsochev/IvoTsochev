@@ -7,6 +7,7 @@
   <img align="right" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivotsochev&layout=compact" />
 </div>
 
+### ⚡️ A quick introduction
 <p>👨‍💻 All of my projects are available at ivaylotsochev.com</p>
 <p>📫 How to reach me ivaylo@headless.team</p>
 <p>📄 Know about my experiences ivaylotsochev.com</p>
