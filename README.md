@@ -40,10 +40,6 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-
-
-
-
   <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -145,7 +141,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=ivotsochev&"
