@@ -18,7 +18,7 @@
 <p>📄 Know about my experiences ivaylotsochev.com</p>
 
 
-<h3 align="center">Connect, Follow, Subscribe:</h3>
+<h3>Connect, Follow, Subscribe:</h3>
 <p align="center">
   <a href="https://twitter.com/ivotsochev" target="blank"
     ><img
