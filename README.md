@@ -43,7 +43,7 @@
 
 ---
 
-<h3>Languages and Tools:</h3>
+<h3>💻 Languages and Tools:</h3>
 <p>
   <a href="https://firebase.google.com/" target="_blank">
     <img
