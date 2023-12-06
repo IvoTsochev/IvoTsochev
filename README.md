@@ -8,7 +8,7 @@
 </div>
 
 ---
-  
+
 <p>👨‍💻 All of my projects are available at ivaylotsochev.com</p>
 <p>📫 How to reach me ivaylo@headless.team</p>
 <p>📄 Know about my experiences ivaylotsochev.com</p>
