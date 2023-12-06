@@ -19,7 +19,7 @@
 
 
 <h3>Connect, Follow, Subscribe:</h3>
-<p align="center">
+<p>
   <a href="https://twitter.com/ivotsochev" target="blank"
     ><img
       align="center"
@@ -38,8 +38,8 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3>Languages and Tools:</h3>
+<p>
 
 
 
