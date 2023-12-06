@@ -6,11 +6,14 @@
   <img align="left" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api?username=ivotsochev&theme=ocean_dark&show_icons=true" />
   <img align="right" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivotsochev&layout=compact" />
 </div>
+
+---
   
 <p>👨‍💻 All of my projects are available at ivaylotsochev.com</p>
 <p>📫 How to reach me ivaylo@headless.team</p>
 <p>📄 Know about my experiences ivaylotsochev.com</p>
 
+---
 
 <h3>Connect, Follow, Subscribe:</h3>
 <p>
