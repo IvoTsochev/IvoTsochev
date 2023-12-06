@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;My+name+is+Ivo;React+Develop)](https://git.io/typing-svg)
 # <h1 align="center">Hi 👋, I'm Ivo</h1>
 <h3 align="center">
   :rocket::fire::fire: Passioned about building React projects.
