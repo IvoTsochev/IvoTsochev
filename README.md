@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;My+name+is+Ivo,seasoned+React+Developer)](https://git.io/typing-svg)
 
-  <img
-    src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ivotsochev"
-  />
   
 <div align="center">
   <img align="left" width="47%" height="235px" src="https://github-readme-stats.vercel.app/api?username=ivotsochev&theme=ocean_dark&show_icons=true" />
@@ -37,6 +33,11 @@
       width="40"
   /></a>
 </p>
+
+<img
+  src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
+  alt="ivotsochev"
+/>
 
 <h3>Languages and Tools:</h3>
 <p>
