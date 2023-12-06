@@ -1,15 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;My+name+is+Ivo,seasoned+React+Developer)](https://git.io/typing-svg)
 
-<h3 align="center">
-  :rocket::fire::fire: Passioned about building React projects.
-  :fire::fire::rocket:
-</h3>
-
-<p align="center">
-<img src="/react3.png" width="100" />
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseeklogo.com%2Fimages%2FN%2Fnext-js-icon-logo-EE302D5DBD-seeklogo.com.png&f=1&nofb=1&ipt=483f1bb2928143ba2dc8f7c87efd4606cf095077e0c86f1273133566931737d7&ipo=images" width="100" />
-</p>
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=ivotsochev&label=Profile%20views&color=0e75b6&style=flat"
