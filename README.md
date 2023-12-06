@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;My+name+is+Ivo,seasoned+React+Developer)](https://git.io/typing-svg)
-# <h1 align="center">Hi 👋, I'm Ivo</h1>
+
 <h3 align="center">
   :rocket::fire::fire: Passioned about building React projects.
   :fire::fire::rocket:
@@ -25,9 +25,9 @@
 
 
   
-<p align="center">👨‍💻 All of my projects are available at ivaylotsochev.com</p>
-<p align="center">📫 How to reach me ivaylo@headless.team</p>
-<p align="center">📄 Know about my experiences ivaylotsochev.com</p>
+<p>👨‍💻 All of my projects are available at ivaylotsochev.com</p>
+<p>📫 How to reach me ivaylo@headless.team</p>
+<p>📄 Know about my experiences ivaylotsochev.com</p>
 
 
 <h3 align="center">Connect with me:</h3>
